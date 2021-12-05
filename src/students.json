@@ -1,0 +1,47 @@
+[
+  {
+    "firstName" : "Ted",
+    "LastName" : "Mosby",
+    "Gender" : "Male",
+    "Department" : "Applied Science",
+    "Email" : "tedmosby@gmail.com",
+    "Age" : 27,
+    "joinDate" : "24/10/2020"
+  },
+  {
+    "firstName" : "Barney",
+    "LastName" : "Stinson",
+    "Gender" : "Male",
+    "Department" : "Mathematics",
+    "Email" : "barneyy@gmail.com",
+    "Age" : 29,
+    "joinDate" : "24/10/2020"
+  },
+  {
+    "firstName" : "Marshall",
+    "LastName" : "Eriksen",
+    "Gender" : "Male",
+    "Department" : "Applied Science",
+    "Email" : "MarshallErikk@gmail.com",
+    "Age" : 29,
+    "joinDate" : "24/10/2020"
+  },
+  {
+    "firstName" : "Lily",
+    "LastName" : "Aldrin",
+    "Gender" : "Female",
+    "Department" : "Applied Science",
+    "Email" : "LilyAlter@gmail.com",
+    "Age" : 29,
+    "joinDate" : "24/10/2020"
+  },
+  {
+    "firstName" : "Robin",
+    "LastName" : "Sherbatsky",
+    "Gender" : "Female",
+    "Department" : "Maths",
+    "Email" : "Robinhood@gmail.com",
+    "Age" : 26,
+    "joinDate" : "24/10/2020"
+  }
+]
