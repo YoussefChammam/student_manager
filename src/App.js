@@ -230,12 +230,9 @@ function App() {
                 Department :   document.getElementById("department").value,
                 Email :  document.getElementById("email").value,
                 Age :  document.getElementById("age").value,
-                joinDate : document.getElementById("date").value
+                joinDate : new Date (document.getElementById("date").value)
             }
-            if (student.Age < 17 || student.Age > 60){
-                alert("Age must be between 17 and 60.")
-            }
-            if (student.joinDate > Date.now()){
+            if (student.joinDate.getFullYear() > 2015){
                 alert("Joining date must be a day before today.")
             }
         const fs = require('browserify-fs')
