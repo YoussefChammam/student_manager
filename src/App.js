@@ -152,8 +152,17 @@ function App() {
                             fullWidth
                             variant="standard"
                         />
-                        <div className={"age TextField"}>
-                            <input className={"age"} type="number" id="age"   placeholder="age" min="17" max="60"/>
+                        <div className={"TextField"}>
+                            <p className={"label"}>Date of birth</p>
+                            <TextField
+                                autoFocus
+                                margin="dense"
+                                id="age"
+                                label=""
+                                type="date"
+                                fullWidth
+                                variant="standard"
+                            />
                         </div>
                         <div className={"radioButtons TextField"}>
                             {RadioButtonsGroup(gender)}
@@ -232,13 +241,13 @@ function App() {
         const fs = require('browserify-fs')
         const saveData = () => {
             const jsonData = JSON.stringify(student)
-            fs.writeFile('cham.json',jsonData, (error) => {if(error) throw error })
+            fs.writeFile('students.json',jsonData, (error) => {if(error) throw error })
         }
         saveData()
     }
 
     let filterDepartment = (what) => {
-        AllStudents = AllStudents.filter(student => student.Department === what)
+        students.filter(student => student.Department === what)
     }
 
     let filterSemester = (period) => {
@@ -261,15 +270,12 @@ function App() {
 
     let letsFilter = () => {
         let filterOne = document.getElementsByClassName("department")
-        console.log(filterOne)
         let filterTwo = document.getElementsByClassName("semesterPeriod")
-        console.log(filterTwo)
         filterDepartment(filterOne.value)
         filterSemester(filterTwo.value)
-        console.log(AllStudents)
     }
     letsFilter()
-
+    console.log(students)
     return (
     <div className="App">
         <Header/>
