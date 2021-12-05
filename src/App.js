@@ -238,7 +238,7 @@ function App() {
     let filterSemester = (period) => {
         if (period ==="winter"){
             students.filter(student => {
-                student.joinDate.slice("-")
+                student.joinDate.slice("/")
                 let num1 = student.joinDate[2]
                 let num2 = student.joinDate[3]
                 let month = "" + num1 + num2
@@ -248,7 +248,7 @@ function App() {
             )
         }else if (period ==="summer"){
             students.filter(student => {
-                    student.joinDate.slice("-")
+                let arr = student.joinDate.slice("/")
                     let num1 = student.joinDate[2]
                     let num2 = student.joinDate[3]
                     let month = "" + num1 + num2
@@ -261,11 +261,13 @@ function App() {
 
     let letsFilter = () => {
         let filterOne = document.getElementsByClassName("department")
+        console.log(filterOne)
         let filterTwo = document.getElementsByClassName("semesterPeriod")
+        console.log(filterTwo)
         filterDepartment(filterOne.value)
         filterSemester(filterTwo.value)
+        console.log(AllStudents)
     }
-
     letsFilter()
 
     return (
