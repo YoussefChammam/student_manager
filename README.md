@@ -1,3 +1,5 @@
+All filtering are written in vanilla js, adding a student too. But I still need to make it work because for now it doesn't ..
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
