@@ -223,6 +223,12 @@ function App() {
                 Age :  document.getElementById("age").value,
                 joinDate : document.getElementById("date").value
             }
+            if (student.Age < 17 || student.Age > 60){
+                alert("Age must be between 17 and 60.")
+            }
+            if (student.joinDate > Date.now()){
+                alert("Joining date must be a day before today.")
+            }
         const fs = require('browserify-fs')
         const saveData = () => {
             const jsonData = JSON.stringify(student)
@@ -238,22 +244,16 @@ function App() {
     let filterSemester = (period) => {
         if (period ==="winter"){
             students.filter(student => {
-                student.joinDate.slice("/")
-                let num1 = student.joinDate[2]
-                let num2 = student.joinDate[3]
-                let month = "" + num1 + num2
-                let monthInt = parseInt(month)
-                return monthInt > 9 && monthInt < 3
+               let arr = student.joinDate.split("/")
+                let month = arr[1]
+                return month > 9 && month < 3
                 }
             )
         }else if (period ==="summer"){
             students.filter(student => {
-                let arr = student.joinDate.slice("/")
-                    let num1 = student.joinDate[2]
-                    let num2 = student.joinDate[3]
-                    let month = "" + num1 + num2
-                    let monthInt = parseInt(month)
-                   return monthInt > 3 && monthInt < 9
+                let arr = student.joinDate.split("/")
+                    let num = arr[1]
+                   return num > 3 && num < 9
                 }
             )
         }
