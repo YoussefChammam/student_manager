@@ -43,5 +43,455 @@
     "Email" : "Robinhood@gmail.com",
     "Age" : 26,
     "joinDate" : "24/10/2020"
-  }
-]
+  },
+    {
+      "firstName": "Esther",
+      "LastName": "Rivers",
+      "Gender": "female",
+      "Age": "2020-10-22",
+      "Department": "Mathematics",
+      "Email": "estherrivers@trasola.com",
+      "joinDate": "2020-12-01"
+    },
+    {
+      "firstName": "Aurelia",
+      "LastName": "Oneil",
+      "Gender": "female",
+      "Age": "2016-07-07",
+      "Department": "Mathematics",
+      "Email": "aureliaoneil@trasola.com",
+      "joinDate": "2016-01-27"
+    },
+    {
+      "firstName": "Mcbride",
+      "LastName": "Carter",
+      "Gender": "male",
+      "Age": "2021-08-28",
+      "Department": "Applied Science",
+      "Email": "mcbridecarter@trasola.com",
+      "joinDate": "2016-01-17"
+    },
+    {
+      "firstName": "Jeanie",
+      "LastName": "Mccoy",
+      "Gender": "female",
+      "Age": "2019-11-23",
+      "Department": "Mathematics",
+      "Email": "jeaniemccoy@trasola.com",
+      "joinDate": "2020-06-22"
+    },
+    {
+      "firstName": "Riddle",
+      "LastName": "Spencer",
+      "Gender": "male",
+      "Age": "2018-04-25",
+      "Department": "Applied Science",
+      "Email": "riddlespencer@trasola.com",
+      "joinDate": "2020-05-29"
+    },
+    {
+      "firstName": "Gregory",
+      "LastName": "Wooten",
+      "Gender": "male",
+      "Age": "2017-10-28",
+      "Department": "Mathematics",
+      "Email": "gregorywooten@trasola.com",
+      "joinDate": "2018-10-29"
+    },
+    {
+      "firstName": "Freida",
+      "LastName": "Vincent",
+      "Gender": "female",
+      "Age": "2018-02-17",
+      "Department": "Mathematics",
+      "Email": "freidavincent@trasola.com",
+      "joinDate": "2019-04-12"
+    },
+    {
+      "firstName": "Melinda",
+      "LastName": "Maynard",
+      "Gender": "female",
+      "Age": "2016-06-02",
+      "Department": "Applied Science",
+      "Email": "melindamaynard@trasola.com",
+      "joinDate": "2017-10-10"
+    },
+    {
+      "firstName": "Russo",
+      "LastName": "Sweeney",
+      "Gender": "male",
+      "Age": "2021-03-11",
+      "Department": "Mathematics",
+      "Email": "russosweeney@trasola.com",
+      "joinDate": "2016-03-06"
+    },
+    {
+      "firstName": "Vinson",
+      "LastName": "Ramirez",
+      "Gender": "male",
+      "Age": "2016-08-28",
+      "Department": "Applied Science",
+      "Email": "vinsonramirez@trasola.com",
+      "joinDate": "2017-09-08"
+    },
+    {
+      "firstName": "Freda",
+      "LastName": "Berg",
+      "Gender": "female",
+      "Age": "2016-11-04",
+      "Department": "Mathematics",
+      "Email": "fredaberg@trasola.com",
+      "joinDate": "2017-09-16"
+    },
+    {
+      "firstName": "Jones",
+      "LastName": "Pearson",
+      "Gender": "male",
+      "Age": "2016-06-29",
+      "Department": "Mathematics",
+      "Email": "jonespearson@trasola.com",
+      "joinDate": "2017-03-20"
+    },
+    {
+      "firstName": "Eva",
+      "LastName": "Goodman",
+      "Gender": "female",
+      "Age": "2019-04-16",
+      "Department": "Applied Science",
+      "Email": "evagoodman@trasola.com",
+      "joinDate": "2016-02-10"
+    },
+    {
+      "firstName": "Ronda",
+      "LastName": "Mason",
+      "Gender": "female",
+      "Age": "2018-02-21",
+      "Department": "Applied Science",
+      "Email": "rondamason@trasola.com",
+      "joinDate": "2018-03-19"
+    },
+    {
+      "firstName": "Tran",
+      "LastName": "Mullen",
+      "Gender": "male",
+      "Age": "2020-02-25",
+      "Department": "Applied Science",
+      "Email": "tranmullen@trasola.com",
+      "joinDate": "2021-10-22"
+    },
+    {
+      "firstName": "Carrillo",
+      "LastName": "Mcmahon",
+      "Gender": "male",
+      "Age": "2015-11-03",
+      "Department": "Applied Science",
+      "Email": "carrillomcmahon@trasola.com",
+      "joinDate": "2017-04-09"
+    },
+    {
+      "firstName": "Livingston",
+      "LastName": "Washington",
+      "Gender": "male",
+      "Age": "2020-09-10",
+      "Department": "Applied Science",
+      "Email": "livingstonwashington@trasola.com",
+      "joinDate": "2020-05-24"
+    },
+    {
+      "firstName": "Hunter",
+      "LastName": "Foster",
+      "Gender": "male",
+      "Age": "2018-01-15",
+      "Department": "Applied Science",
+      "Email": "hunterfoster@trasola.com",
+      "joinDate": "2017-11-25"
+    },
+    {
+      "firstName": "Mitzi",
+      "LastName": "West",
+      "Gender": "female",
+      "Age": "2019-09-11",
+      "Department": "Mathematics",
+      "Email": "mitziwest@trasola.com",
+      "joinDate": "2020-12-21"
+    },
+    {
+      "firstName": "Coleen",
+      "LastName": "Shelton",
+      "Gender": "female",
+      "Age": "2020-07-16",
+      "Department": "Mathematics",
+      "Email": "coleenshelton@trasola.com",
+      "joinDate": "2019-07-17"
+    },
+    {
+      "firstName": "Jana",
+      "LastName": "Serrano",
+      "Gender": "female",
+      "Age": "2018-12-02",
+      "Department": "Applied Science",
+      "Email": "janaserrano@trasola.com",
+      "joinDate": "2020-01-28"
+    },
+    {
+      "firstName": "Lindsey",
+      "LastName": "Sullivan",
+      "Gender": "female",
+      "Age": "2018-11-15",
+      "Department": "Mathematics",
+      "Email": "lindseysullivan@trasola.com",
+      "joinDate": "2016-05-09"
+    },
+    {
+      "firstName": "Stephenson",
+      "LastName": "Dyer",
+      "Gender": "male",
+      "Age": "2020-12-10",
+      "Department": "Applied Science",
+      "Email": "stephensondyer@trasola.com",
+      "joinDate": "2015-08-07"
+    },
+    {
+      "firstName": "Ortiz",
+      "LastName": "Howe",
+      "Gender": "male",
+      "Age": "2015-03-07",
+      "Department": "Mathematics",
+      "Email": "ortizhowe@trasola.com",
+      "joinDate": "2017-08-04"
+    },
+    {
+      "firstName": "Hardin",
+      "LastName": "Perez",
+      "Gender": "male",
+      "Age": "2017-05-21",
+      "Department": "Mathematics",
+      "Email": "hardinperez@trasola.com",
+      "joinDate": "2019-06-29"
+    },
+    {
+      "firstName": "Bobbi",
+      "LastName": "Winters",
+      "Gender": "female",
+      "Age": "2017-07-30",
+      "Department": "Applied Science",
+      "Email": "bobbiwinters@trasola.com",
+      "joinDate": "2016-02-20"
+    },
+    {
+      "firstName": "Simon",
+      "LastName": "Robbins",
+      "Gender": "male",
+      "Age": "2021-06-23",
+      "Department": "Applied Science",
+      "Email": "simonrobbins@trasola.com",
+      "joinDate": "2018-01-23"
+    },
+    {
+      "firstName": "Polly",
+      "LastName": "Browning",
+      "Gender": "female",
+      "Age": "2015-12-29",
+      "Department": "Mathematics",
+      "Email": "pollybrowning@trasola.com",
+      "joinDate": "2017-06-08"
+    },
+    {
+      "firstName": "Workman",
+      "LastName": "Castillo",
+      "Gender": "male",
+      "Age": "2018-04-29",
+      "Department": "Mathematics",
+      "Email": "workmancastillo@trasola.com",
+      "joinDate": "2016-07-06"
+    },
+    {
+      "firstName": "Noble",
+      "LastName": "Burris",
+      "Gender": "male",
+      "Age": "2015-03-04",
+      "Department": "Applied Science",
+      "Email": "nobleburris@trasola.com",
+      "joinDate": "2016-09-03"
+    },
+    {
+      "firstName": "Pickett",
+      "LastName": "Rollins",
+      "Gender": "male",
+      "Age": "2015-12-03",
+      "Department": "Applied Science",
+      "Email": "pickettrollins@trasola.com",
+      "joinDate": "2018-09-08"
+    },
+    {
+      "firstName": "Waller",
+      "LastName": "Gutierrez",
+      "Gender": "male",
+      "Age": "2015-10-16",
+      "Department": "Mathematics",
+      "Email": "wallergutierrez@trasola.com",
+      "joinDate": "2018-04-21"
+    },
+    {
+      "firstName": "Calhoun",
+      "LastName": "Vance",
+      "Gender": "male",
+      "Age": "2019-09-14",
+      "Department": "Mathematics",
+      "Email": "calhounvance@trasola.com",
+      "joinDate": "2018-08-10"
+    },
+    {
+      "firstName": "Simone",
+      "LastName": "Barton",
+      "Gender": "female",
+      "Age": "2016-01-13",
+      "Department": "Applied Science",
+      "Email": "simonebarton@trasola.com",
+      "joinDate": "2016-02-09"
+    },
+    {
+      "firstName": "Nola",
+      "LastName": "Maldonado",
+      "Gender": "female",
+      "Age": "2018-01-22",
+      "Department": "Applied Science",
+      "Email": "nolamaldonado@trasola.com",
+      "joinDate": "2018-12-15"
+    },
+    {
+      "firstName": "Fuller",
+      "LastName": "Farley",
+      "Gender": "male",
+      "Age": "2016-03-24",
+      "Department": "Mathematics",
+      "Email": "fullerfarley@trasola.com",
+      "joinDate": "2018-03-15"
+    },
+    {
+      "firstName": "Hickman",
+      "LastName": "Mathis",
+      "Gender": "male",
+      "Age": "2021-04-04",
+      "Department": "Mathematics",
+      "Email": "hickmanmathis@trasola.com",
+      "joinDate": "2015-05-15"
+    },
+    {
+      "firstName": "Foster",
+      "LastName": "Kelly",
+      "Gender": "male",
+      "Age": "2019-04-08",
+      "Department": "Mathematics",
+      "Email": "fosterkelly@trasola.com",
+      "joinDate": "2020-05-08"
+    },
+    {
+      "firstName": "Cecile",
+      "LastName": "Keith",
+      "Gender": "female",
+      "Age": "2019-12-11",
+      "Department": "Mathematics",
+      "Email": "cecilekeith@trasola.com",
+      "joinDate": "2016-02-13"
+    },
+    {
+      "firstName": "Burke",
+      "LastName": "Salinas",
+      "Gender": "male",
+      "Age": "2019-04-10",
+      "Department": "Applied Science",
+      "Email": "burkesalinas@trasola.com",
+      "joinDate": "2015-10-24"
+    },
+    {
+      "firstName": "Katie",
+      "LastName": "Ross",
+      "Gender": "female",
+      "Age": "2016-10-14",
+      "Department": "Mathematics",
+      "Email": "katieross@trasola.com",
+      "joinDate": "2019-02-23"
+    },
+    {
+      "firstName": "Harrell",
+      "LastName": "Robinson",
+      "Gender": "male",
+      "Age": "2019-05-02",
+      "Department": "Applied Science",
+      "Email": "harrellrobinson@trasola.com",
+      "joinDate": "2015-10-11"
+    },
+    {
+      "firstName": "Marisol",
+      "LastName": "Gilbert",
+      "Gender": "female",
+      "Age": "2021-05-12",
+      "Department": "Applied Science",
+      "Email": "marisolgilbert@trasola.com",
+      "joinDate": "2018-10-04"
+    },
+    {
+      "firstName": "Burks",
+      "LastName": "Levine",
+      "Gender": "male",
+      "Age": "2016-11-04",
+      "Department": "Mathematics",
+      "Email": "burkslevine@trasola.com",
+      "joinDate": "2015-09-23"
+    },
+    {
+      "firstName": "Loraine",
+      "LastName": "Hamilton",
+      "Gender": "female",
+      "Age": "2018-06-18",
+      "Department": "Mathematics",
+      "Email": "lorainehamilton@trasola.com",
+      "joinDate": "2018-02-17"
+    },
+    {
+      "firstName": "Spears",
+      "LastName": "Underwood",
+      "Gender": "male",
+      "Age": "2017-09-18",
+      "Department": "Mathematics",
+      "Email": "spearsunderwood@trasola.com",
+      "joinDate": "2021-05-04"
+    },
+    {
+      "firstName": "Imogene",
+      "LastName": "Berry",
+      "Gender": "female",
+      "Age": "2021-10-25",
+      "Department": "Applied Science",
+      "Email": "imogeneberry@trasola.com",
+      "joinDate": "2017-03-05"
+    },
+    {
+      "firstName": "Hazel",
+      "LastName": "Mcfadden",
+      "Gender": "female",
+      "Age": "2016-03-30",
+      "Department": "Applied Science",
+      "Email": "hazelmcfadden@trasola.com",
+      "joinDate": "2017-02-28"
+    },
+    {
+      "firstName": "Burch",
+      "LastName": "Wong",
+      "Gender": "male",
+      "Age": "2016-07-22",
+      "Department": "Applied Science",
+      "Email": "burchwong@trasola.com",
+      "joinDate": "2016-03-01"
+    },
+    {
+      "firstName": "Rhoda",
+      "LastName": "Witt",
+      "Gender": "female",
+      "Age": "2019-04-03",
+      "Department": "Mathematics",
+      "Email": "rhodawitt@trasola.com",
+      "joinDate": "2016-04-24"
+    }
+  ]
